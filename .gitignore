@@ -1,0 +1,22 @@
+# Fichiers et dossiers des projets Visual Studio et .NET
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dossiers de sortie
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# Fichiers de configuration et de cache
+*.pdb
+*.cache
+*.dll
+*.exe
+*.config
+
+# Packages et dépendances
+packages/
